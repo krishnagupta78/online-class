@@ -1,0 +1,9 @@
+body{
+    width: 1240px;
+    position: relative;
+    margin: auto;
+}
+card{
+    width: 120px;
+    height: 240px;
+}
